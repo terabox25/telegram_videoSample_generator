@@ -26,25 +26,21 @@ First, clone the repository to your local machine:
 
    cd telegram-media-bot
 
-  Step 2: Install Dependencies
+  ### **Step 2: Install Dependencies
 This bot requires several Python libraries. To install them, follow these steps:
 
 Make sure you have Python 3.8+ installed. You can check by running:
 
-bash
-Copy code
 python --version
 Install the required dependencies using pip:
 
-bash
-Copy code
 pip install -r requirements.txt
 This will install the necessary packages like pyrogram, ffmpeg, nest_asyncio, and uvloop.
 
-Step 3: Set Up Your Telegram API Credentials
+### **Step 3: Set Up Your Telegram API Credentials
 To run the bot, you'll need to modify the credentials directly in the code:
 
-Get API credentials:
+### ** Get API credentials:
 
 Go to Telegram's API Development Tools.
 Log in with your Telegram account and create a new application to get your api_id and api_hash.
@@ -60,7 +56,7 @@ api_hash = "your_api_hash" # Replace with your API hash
 bot_token = "your_bot_token" # Replace with your bot token
 Replace your_api_id, your_api_hash, and your_bot_token with the credentials you obtained.
 
-Step 4: Run the Bot
+### ** Step 4: Run the Bot
 Now that everything is set up, it's time to run the bot:
 
 In the project folder, run the following command to start the bot:
