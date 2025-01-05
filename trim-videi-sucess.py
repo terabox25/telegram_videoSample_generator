@@ -20,9 +20,9 @@ logger = logging.getLogger(__name__)
 nest_asyncio.apply()
 
 # Telegram API Credentials
-api_id = 25450294
-api_hash = "1a5ef99bb275c1f1e6e7f0ff33c3e8b5"
-bot_token = "6216536325:AAE4dTlIA3-8PYcJnireGCpwCqvIBLHE9Zw"
+api_id =   #dont use ""
+api_hash = " "
+bot_token = " "
 
 # Initialize Pyrogram Client
 app = Client("my_bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
