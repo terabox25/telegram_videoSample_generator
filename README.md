@@ -54,6 +54,7 @@ Modify the credentials in the code: Open the bot.py file in your project folder,
 api_id = your_api_id       # Replace with your API ID
 api_hash = "your_api_hash" # Replace with your API hash
 bot_token = "your_bot_token" # Replace with your bot token
+
 Replace your_api_id, your_api_hash, and your_bot_token with the credentials you obtained.
 
 ### ** Step 4: Run the Bot
