@@ -21,10 +21,10 @@ First, clone the repository to your local machine:
 
 1. Open a terminal (Command Prompt, PowerShell, or a terminal in your IDE).
 2. Run the following command to clone the repo:
-   ```bash
-   git clone https://github.com/your-username/telegram-media-bot.git
+   
+   git clone https://github.com/arvind88765/telegram_videoSample_generator.git
 
-   cd telegram-media-bot
+   cd telegram_videoSample_generator
 
   ### **Step 2: Install Dependencies
 This bot requires several Python libraries. To install them, follow these steps:
