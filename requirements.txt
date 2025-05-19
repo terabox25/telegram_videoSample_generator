@@ -3,3 +3,4 @@ tgcrypto==1.2.1
 ffmpeg-python==0.2.0
 nest-asyncio==1.5.4
 uvloop==0.17.0
+uvloop
